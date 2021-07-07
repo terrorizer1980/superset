@@ -38,7 +38,7 @@
     "react-grid-gallery": "^0.5.5",
     "react-helmet": "^6.1.0",
     "swagger-ui-react": "^3.36.2",
-    "theme-ui": "^0.3.1",
+    "theme-ui": "^0.9.1",
     "three": "^0.125.0"
   },
   "devDependencies": {
