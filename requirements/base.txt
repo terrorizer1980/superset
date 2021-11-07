@@ -7,7 +7,7 @@
 #
 -e file:.
     # via -r requirements/base.in
-aiohttp==3.7.2
+aiohttp==3.7.4
     # via slackclient
 alembic==1.4.3
     # via flask-migrate
@@ -21,7 +21,7 @@ attrs==20.2.0
     # via
     #   aiohttp
     #   jsonschema
-babel==2.8.0
+babel==2.9.1
     # via flask-babel
 backoff==1.10.0
     # via apache-superset
@@ -66,7 +66,7 @@ dnspython==2.0.0
     # via email-validator
 email-validator==1.1.1
     # via flask-appbuilder
-flask-appbuilder==3.3.0
+flask-appbuilder==3.3.2
     # via apache-superset
 flask-babel==1.0.0
     # via flask-appbuilder
@@ -295,7 +295,7 @@ werkzeug==1.0.1
     #   flask-jwt-extended
 wtforms-json==0.3.3
     # via apache-superset
-wtforms==2.3.3
+wtforms==3.0.0a1
     # via
     #   flask-wtf
     #   wtforms-json
