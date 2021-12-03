@@ -39,7 +39,7 @@ pluggy==0.13.1
     # via tox
 pre-commit==2.8.2
     # via -r requirements/integration.in
-py==1.9.0
+py==1.10.0
     # via tox
 pyparsing==2.4.7
     # via packaging
