@@ -42,7 +42,7 @@ mysqlclient==1.4.2.post1
     # via -r requirements/development.in
 openpyxl==3.0.5
     # via tabulator
-pillow==7.2.0
+pillow==9.2.0
     # via -r requirements/development.in
 psycopg2-binary==2.8.5
     # via -r requirements/development.in
@@ -88,3 +88,4 @@ xlrd==1.2.0
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
