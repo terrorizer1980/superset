@@ -169,7 +169,7 @@ multidict==5.0.0
     #   yarl
 natsort==7.0.1
     # via croniter
-numpy==1.19.4
+numpy==1.22.2
     # via
     #   pandas
     #   pyarrow
