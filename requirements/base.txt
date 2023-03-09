@@ -54,7 +54,7 @@ convertdate==2.3.0
     # via holidays
 cron-descriptor==1.2.24
     # via apache-superset
-croniter==0.3.36
+croniter==1.0.5
     # via apache-superset
 cryptography==3.3.2
     # via apache-superset
